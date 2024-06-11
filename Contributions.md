@@ -81,8 +81,7 @@ members of the project's leadership.
 
 ### Attribution
 
-This Code of Conduct is a copy of proyect cloud-base tutorials on Structural Bioinformatics (https://github.com/pb3lab/ibm3202/tree/master) that is adapted from the [Contributor Covenant][homepage], version 1.4,
-available at [http://contributor-covenant.org/version/1/4][version]
+This Code of Conduct is a copy of proyect cloud-base tutorials on Structural Bioinformatics (https://github.com/pb3lab/ibm3202/blob/master/contributions.md) that is adapted from the [Contributor Covenant][homepage], version 1.4,available at [http://contributor-covenant.org/version/1/4][version]
 
 [homepage]: http://contributor-covenant.org
 [version]: http://contributor-covenant.org/version/1/4/
