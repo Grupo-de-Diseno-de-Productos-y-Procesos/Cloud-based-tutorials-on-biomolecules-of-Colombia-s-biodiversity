@@ -13,21 +13,16 @@ The tutorials integrated into the courses consist of four main sections. The ini
 
 The following is a brief of each tutorial, along with the receptor used for each biomolecule.
 
-| Tutorial | Title                           | Receptor                                                        |
-|--------|-------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------|
-| Lab.01 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/juferprada97/Cloud-based-tutorials-on-biomolecules-of-Colombia-s-biodiversity/blob/main/Tutorials/Tutorials%20in%20english/galantamine.ipynb) | Exploring Colombia's rich biodiversity: A closer look at the galantamine biomolecule  |  Acetylcholinesterase  |
+| Tutorial | Title | Receptor |
+|----------|-------|----------|
+| Lab.01 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/juferprada97/Cloud-based-tutorials-on-biomolecules-of-Colombia-s-biodiversity/blob/main/Tutorials/Tutorials%20in%20english/galantamine.ipynb) | Exploring Colombia's rich biodiversity: A closer look at the galantamine biomolecule | Acetylcholinesterase |
+| Lab.02 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/juferprada97/Cloud-based-tutorials-on-biomolecules-of-Colombia-s-biodiversity/blob/main/Tutorials/Tutorials%20in%20english/kaempferol.ipynb) | Exploring Colombia's rich biodiversity: A closer look at the biomolecule kaempferol | DAPK1 |
+| Lab.03 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/juferprada97/Cloud-based-tutorials-on-biomolecules-of-Colombia-s-biodiversity/blob/main/Tutorials/Tutorials%20in%20english/quercetin.ipynb) | Exploring Colombia's rich biodiversity: A closer look at the biomolecule quercetin | DAPK1 |
+| Lab.04 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/juferprada97/Cloud-based-tutorials-on-biomolecules-of-Colombia-s-biodiversity/blob/main/Tutorials/Tutorials%20in%20english/luteolin.ipynb) | Exploring Colombia's rich biodiversity: A closer look at the biomolecule luteolin | Tankyrase I |
+| Lab.05 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/juferprada97/Cloud-based-tutorials-on-biomolecules-of-Colombia-s-biodiversity/blob/main/Tutorials/Tutorials%20in%20english/apigenin.ipynb) | Exploring Colombia's rich biodiversity: A closer look at the biomolecule apigenin | Tankyrase I |
+| Lab.06 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/juferprada97/Cloud-based-tutorials-on-biomolecules-of-Colombia-s-biodiversity/blob/main/Tutorials/Tutorials%20in%20english/epicatechin.ipynb) | Exploring Colombia's rich biodiversity: A closer look at the biomolecule epicatechin | Ara h8 |
+| Lab.07 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/juferprada97/Cloud-based-tutorials-on-biomolecules-of-Colombia-s-biodiversity/blob/main/Tutorials/Tutorials%20in%20english/resveratrol.ipynb) | Exploring Colombia's rich biodiversity: A closer look at the biomolecule resveratrol | QR2 |
 
-| Lab.02 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/juferprada97/Cloud-based-tutorials-on-biomolecules-of-Colombia-s-biodiversity/blob/main/Tutorials/Tutorials%20in%20english/kaempferol.ipynb) |  Exploring Colombia's rich biodiversity: A closer look at the biomolecule kaempferol  |  DAPK1  |
-
-| Lab.03 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/juferprada97/Cloud-based-tutorials-on-biomolecules-of-Colombia-s-biodiversity/blob/main/Tutorials/Tutorials%20in%20english/quercetin.ipynb) | Exploring Colombia's rich biodiversity: A closer look at the biomolecule quercetin       | DAPK1  |
-
-| Lab.04 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/juferprada97/Cloud-based-tutorials-on-biomolecules-of-Colombia-s-biodiversity/blob/main/Tutorials/Tutorials%20in%20english/luteolin.ipynb) | Exploring Colombia's rich biodiversity: A closer look at the biomolecule luteolin  | Tankyrase I   |
-
-| Lab.05 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/juferprada97/Cloud-based-tutorials-on-biomolecules-of-Colombia-s-biodiversity/blob/main/Tutorials/Tutorials%20in%20english/apigenin.ipynb) | Exploring Colombia's rich biodiversity: A closer look at the biomolecule apigenin| Tankyrase I  |
-
-| Lab.06 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/juferprada97/Cloud-based-tutorials-on-biomolecules-of-Colombia-s-biodiversity/blob/main/Tutorials/Tutorials%20in%20english/epicatechin.ipynb) | Exploring Colombia's rich biodiversity: A closer look at the biomolecule epicatechin  |    Ara h8  |
-
-| Lab.07 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/juferprada97/Cloud-based-tutorials-on-biomolecules-of-Colombia-s-biodiversity/blob/main/Tutorials/Tutorials%20in%20english/resveratrol.ipynb) | Exploring Colombia's rich biodiversity: A closer look at the biomolecule resveratrol  |  QR2  |
 
 
 
