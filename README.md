@@ -35,7 +35,7 @@ Meza J, Leon C, Bohorquez F, Rodriguez W, Bernal A, Domínguez M, Ramírez C, Vi
 
 ## Contributions and Code of Conduct
 
-Please **read** our rules on [Contributions and Code of Conduct](https://github.com/pb3lab/ibm3202/blob/master/contributions.md) before making any changes.
+Please **read** our rules on [Contributions and Code of Conduct](https://github.com/juferprada97/Cloud-based-tutorials-on-biomolecules-of-Colombia-s-biodiversity/blob/main/Contributions.md) before making any changes.
 
 ## References
 1. Cheung, J., Rudolph, M. J., Burshteyn, F., Cassidy, M. S., Gary, E. N., Love, J., ... & Height, J. J. Structures of human acetylcholinesterase in complex with pharmacologically important ligands. Journal of medicinal chemistry. 2012; 55(22), 10282-10286.
