@@ -1,3 +1,4 @@
+[![DOI](https://zenodo.org/badge/812004900.svg)](https://zenodo.org/doi/10.5281/zenodo.12537290)
 # Cloud-based tutorials on biomolecules of Colombia's biodiversity
 ### Department of Biological Science, Universidad de los Andes, Bogotá, Colombia.
 ### Product and Process Design Group, Department of Chemical and Food Engineering, Universidad de los Andes, Bogotá, Colombia.
