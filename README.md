@@ -16,7 +16,7 @@ The following is a brief of each tutorial, along with the receptor used for each
 
 | Tutorials | Title | Receptor |
 |----------|-------|----------|
-| Tutorial_00 [![Open In Colab](https://colab.research.google.com/drive/1otaCkj44qgOVdIW1eyccYUjlycoqS6Xd) | Google Colab warm-up tutorial |  |
+| Tutorial_00 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)(https://colab.research.google.com/drive/1otaCkj44qgOVdIW1eyccYUjlycoqS6Xd) | Google Colab warm-up tutorial |  | |
 | Tutorial_01 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Mjvy6FhkmxKKz6z-VG3_bInpTJ61iAvj) | Exploring Colombia's rich biodiversity: A closer look at the biomolecule galantamine | Acetylcholinesterase [1] |
 | Tutorial_02 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1-cpGYqqX4K3fM8pW_MbS_vsMGxiyxKkq) | Exploring Colombia's rich biodiversity: A closer look at the biomolecule kaempferol | DAPK1 [2] |
 | Tutorial_03 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1c0wKztyVX-vn0KhMEoLYtMZ3cMM9OgTH) | Exploring Colombia's rich biodiversity: A closer look at the biomolecule quercetin | DAPK1 [2] |
