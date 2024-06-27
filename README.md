@@ -37,7 +37,7 @@ Juan Fernando Meza, Cielo Leon Ramos, Francisco Bohorquez Martinez, Wilson Rodri
 
 If you use these tutorials in your research/teaching, please **cite us!:**
 
-Meza J, Leon C, Bohorquez F, Rodriguez W, Bernal A, Domínguez M, Ramírez C, Villegas F, Gonzalez A  (2024) Development and implementation of cloud-based tutorials on biomolecules of Colombia’s biodiversity. _J Chem Educ.
+Meza J, Leon C, Bohorquez F, Rodriguez W, Bernal A, Domínguez M, Ramírez C, Villegas F, Gonzalez A  (2024) Development and implementation of cloud-based tutorials on biomolecules of Colombia’s biodiversity.Unpublished.
 
 ## Contributions and Code of Conduct
 
